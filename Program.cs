@@ -1,11 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using ObjectOrientedProgrammingForCSharp.TopicsOfOOP;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP.Introduction;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._1._1._Constructor;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._1._2._Fields;
+using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._2._Relationships_Between_Classes;
+using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._2._Relationships_Between_Classes.Inheritence;
+
 
 namespace ObjectOrientedProgrammingForCSharp
 {
+
     class Program
     {
 
@@ -30,14 +35,27 @@ namespace ObjectOrientedProgrammingForCSharp
             var cs = new Customer();
             var list = new List<string> { "One", "Two", "Three" };
             cs.Orders = list;
-                
+
             //Methods
+            var point = new Point();
+            Console.WriteLine("PhoneNumber is : " + point.Caller());
+            Console.WriteLine("PhoneNumber is : " + point.Receiver("5412863404"));
+            point.Add( 1, 2, 3, 4 ); //If you use params yo can add values like this instead of below
+            point.Add(new int[] { 1, 2, 3, 4 });
 
             //Acces Modifiers
+            var john = new Customers();
+            //john._name; ==>> It does not compile
 
-            //Properties
+            //Inheritence
+            var chopping = new Chopping();
+            chopping.HeatingFood();
 
-            //Indexer
+            //Composition
+            //???
+            
+
+            
 
 
         }
