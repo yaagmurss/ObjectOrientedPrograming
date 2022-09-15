@@ -4,9 +4,8 @@ using ObjectOrientedProgrammingForCSharp.TopicsOfOOP;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP.Introduction;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._1._1._Constructor;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._1._2._Fields;
-using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._2._Relationships_Between_Classes;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._2._Relationships_Between_Classes.Inheritence;
-
+using ClassLibraryForOOP.AccesModifiers;
 
 namespace ObjectOrientedProgrammingForCSharp
 {
@@ -45,7 +44,10 @@ namespace ObjectOrientedProgrammingForCSharp
 
             //Acces Modifiers
             var john = new Customers();
-            //john._name; ==>> It does not compile
+            var promote = new CustomerPromoter();
+            promote.CalculatePromotionCase1(1);         
+
+            
 
             //Inheritence
             var chopping = new Chopping();

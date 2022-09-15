@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedProgrammingForCSharp", "ObjectOrientedProgrammingForCSharp.csproj", "{43E0A47C-F121-4268-8233-1013FE8AEAD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedProgrammingForCSharp", "ObjectOrientedProgrammingForCSharp.csproj", "{43E0A47C-F121-4268-8233-1013FE8AEAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryForOOP", "..\ClassLibraryForOOP\ClassLibraryForOOP.csproj", "{518ABE29-53E5-4405-B61B-297E6258CDB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{43E0A47C-F121-4268-8233-1013FE8AEAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43E0A47C-F121-4268-8233-1013FE8AEAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43E0A47C-F121-4268-8233-1013FE8AEAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518ABE29-53E5-4405-B61B-297E6258CDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518ABE29-53E5-4405-B61B-297E6258CDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518ABE29-53E5-4405-B61B-297E6258CDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518ABE29-53E5-4405-B61B-297E6258CDB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

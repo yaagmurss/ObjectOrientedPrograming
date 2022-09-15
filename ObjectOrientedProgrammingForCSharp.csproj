@@ -9,4 +9,8 @@
     <Folder Include="TopicsOfOOP\2. Relationships Between Classes\2. Composition\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibraryForOOP\ClassLibraryForOOP.csproj" />
+  </ItemGroup>
+
 </Project>
