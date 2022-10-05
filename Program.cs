@@ -5,7 +5,7 @@ using ObjectOrientedProgrammingForCSharp.TopicsOfOOP.Introduction;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._1._1._Constructor;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._1._2._Fields;
 using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._2._Relationships_Between_Classes.Inheritence;
-using ObjectOrientedProgrammingForCSharp.TopicsOfOOP._2._Relationships_Between_Classes._2._2._UpCastingDownCasting;
+using ObjectOrientedProgrammingForCSharp.TopicsOfOOP.Polymorphism.MethodOveriding;
 
 namespace ObjectOrientedProgrammingForCSharp
 {
@@ -64,15 +64,23 @@ namespace ObjectOrientedProgrammingForCSharp
             Console.WriteLine("-----------UpCasting---------");
             //UpCasting
 
-            Text text = new Text();
-            Shape shape = text;
+            //Text text = new Text();
+            ////Shape shape = text;
 
-            text.Width = 100;
-            shape.Width = 200;
+            //text.Width = 100;
+            //shape.Width = 200;
 
-            Console.WriteLine("Object Width is : {0} ", text.Width); //Returns 200
+            //Console.WriteLine("Object Width is : {0} ", text.Width); //Returns 200
 
 
+            Console.WriteLine("-----------MethodOverriding---------");
+
+            var shapes = new List<Shape>();
+            shapes.Add(new Circle());
+            shapes.Add(new Triangle());
+
+            var canva = new Canvas();
+            canva.DrawsShapes(shapes);
 
 
         }
