@@ -1,0 +1,26 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ObjectOrientedProgrammingForCSharp/1.0.0": {
+        "dependencies": {
+          "ClassLibraryForOOP": "1.0.0"
+        },
+        "runtime": {
+          "ObjectOrientedProgrammingForCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectOrientedProgrammingForCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

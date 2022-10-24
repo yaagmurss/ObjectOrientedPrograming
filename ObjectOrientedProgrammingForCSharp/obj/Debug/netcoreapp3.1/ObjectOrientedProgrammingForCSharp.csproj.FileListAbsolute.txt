@@ -1,0 +1,14 @@
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.csproj.AssemblyReference.cache
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.AssemblyInfoInputs.cache
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.AssemblyInfo.cs
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.csproj.CoreCompileInputs.cache
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\bin\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.exe
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\bin\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.deps.json
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\bin\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.runtimeconfig.json
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\bin\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.runtimeconfig.dev.json
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\bin\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.dll
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\bin\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.pdb
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.dll
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.pdb
+C:\Users\200741\source\repos\ObjectOrientedProgrammingForCSharp\obj\Debug\netcoreapp3.1\ObjectOrientedProgrammingForCSharp.genruntimeconfig.cache

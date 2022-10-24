@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="TopicsOfOOP\2. Relationships Between Classes\2. Composition\" />
+    <Folder Include="TopicsOfOOP\2. Relationships Between Classes\2.2. UpCastingDownCasting\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibraryForOOP\ClassLibraryForOOP.csproj" />
+  </ItemGroup>
+
+</Project>
