@@ -3,7 +3,7 @@ Object Oriented Programing Notes For Csharp
 
 **TopicsOfOOP**
 
-**- 1\. Inroduction**
+- 1\. Inroduction
 
     - 1.0. Intro
     - 1.1. Constructor
@@ -12,7 +12,7 @@ Object Oriented Programing Notes For Csharp
     - 1.4. Access Modifiers
 
 
-**- 1\. Relationship Between Classes**
+- 1\. Relationship Between Classes
 
     - 1.0. Inheritence
     - 1.1. Polymorphism
