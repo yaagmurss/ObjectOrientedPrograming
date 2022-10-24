@@ -1,7 +1,7 @@
 # ObjectOrientedPrograming
 Object Oriented Programing Notes For Csharp
 
-- 1. Inroduction
+- 1\. Inroduction
 - 1.0. Intro
 - 1.1. Constructor
 - 1.2. Fields
