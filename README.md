@@ -9,7 +9,7 @@ Object Oriented Programing Notes For Csharp
     - 1.4. Access Modifiers
 
 
-- 1.\ Relationsship Between Classes
+- 1\. Relationship Between Classes
     - 1.0. Inheritence
     - 1.1. Polymorphism
     - 1.2. MethodOverriding
